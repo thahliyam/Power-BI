@@ -1,1 +1,2 @@
 # Power-BI
+This Power BI assignment aims to provide a comprehensive analysis of a global store's sales data.  The analysis will give thorough examination of sales data across various geographical regions, including country, region, and market levels. Additionally, we will explore shipping patterns and analyze the impact of different shipping modes on overall sales performance. The ultimate goal of this assignment is to deliver an interactive and visually appealing dashboard that empowers stakeholders to make data-driven decisions and optimize business operations.
